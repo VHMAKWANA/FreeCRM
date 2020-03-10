@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="273863" started-at="2020-02-12T23:21:57 EST" finished-at="2020-02-12T23:26:31 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="273863" started-at="2020-02-12T23:21:57 EST" finished-at="2020-02-12T23:26:31 EST">
+      <class name="com.cra.QA.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="setUp" is-config="true" duration-ms="14435" started-at="2020-02-12T23:23:28 EST" finished-at="2020-02-12T23:23:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="usercheck()[pri:49, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="usercheck" duration-ms="1969" started-at="2020-02-12T23:23:42 EST" finished-at="2020-02-12T23:23:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usercheck -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="tearDown" is-config="true" duration-ms="811" started-at="2020-02-12T23:23:44 EST" finished-at="2020-02-12T23:23:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="setUp" is-config="true" duration-ms="14635" started-at="2020-02-12T23:23:45 EST" finished-at="2020-02-12T23:24:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="contactspagetest()[pri:50, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="contactspagetest" duration-ms="2007" started-at="2020-02-12T23:24:00 EST" finished-at="2020-02-12T23:24:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactspagetest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="tearDown" is-config="true" duration-ms="780" started-at="2020-02-12T23:24:02 EST" finished-at="2020-02-12T23:24:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="setUp" is-config="true" duration-ms="14245" started-at="2020-02-12T23:24:03 EST" finished-at="2020-02-12T23:24:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Dealspagetest()[pri:51, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="Dealspagetest" duration-ms="2092" started-at="2020-02-12T23:24:17 EST" finished-at="2020-02-12T23:24:19 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dealspagetest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cra.QA.testcases.HomePageTest@42f93a98]" name="tearDown" is-config="true" duration-ms="826" started-at="2020-02-12T23:24:19 EST" finished-at="2020-02-12T23:24:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cra.QA.testcases.HomePageTest -->
+      <class name="com.cra.QA.testcases.DealTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="setUp" is-config="true" duration-ms="17756" started-at="2020-02-12T23:24:20 EST" finished-at="2020-02-12T23:24:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newdeal(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="newdeal" duration-ms="1827" started-at="2020-02-12T23:24:38 EST" data-provider="getdata" finished-at="2020-02-12T23:24:40 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mehul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vijay123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newdeal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="teardown" is-config="true" duration-ms="808" started-at="2020-02-12T23:24:40 EST" finished-at="2020-02-12T23:24:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="setUp" is-config="true" duration-ms="18392" started-at="2020-02-12T23:24:40 EST" finished-at="2020-02-12T23:24:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newdeal(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="newdeal" duration-ms="2075" started-at="2020-02-12T23:24:59 EST" data-provider="getdata" finished-at="2020-02-12T23:25:01 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sathish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kajal123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newdeal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="teardown" is-config="true" duration-ms="1168" started-at="2020-02-12T23:25:01 EST" finished-at="2020-02-12T23:25:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="setUp" is-config="true" duration-ms="16827" started-at="2020-02-12T23:25:02 EST" finished-at="2020-02-12T23:25:19 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newdeal(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="newdeal" duration-ms="1838" started-at="2020-02-12T23:25:19 EST" data-provider="getdata" finished-at="2020-02-12T23:25:21 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[janu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newdeal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="teardown" is-config="true" duration-ms="815" started-at="2020-02-12T23:25:21 EST" finished-at="2020-02-12T23:25:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="setUp" is-config="true" duration-ms="17498" started-at="2020-02-12T23:25:21 EST" finished-at="2020-02-12T23:25:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newdeal(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="newdeal" duration-ms="1740" started-at="2020-02-12T23:25:39 EST" data-provider="getdata" finished-at="2020-02-12T23:25:41 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newdeal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.DealTest@c46bcd4]" name="teardown" is-config="true" duration-ms="944" started-at="2020-02-12T23:25:41 EST" finished-at="2020-02-12T23:25:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.cra.QA.testcases.DealTest -->
+      <class name="com.cra.QA.testcases.TestLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="setup" is-config="true" duration-ms="14173" started-at="2020-02-12T23:25:42 EST" finished-at="2020-02-12T23:25:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="title()[pri:49, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="title" duration-ms="21" started-at="2020-02-12T23:25:56 EST" finished-at="2020-02-12T23:25:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="teardown" is-config="true" duration-ms="895" started-at="2020-02-12T23:25:56 EST" finished-at="2020-02-12T23:25:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="setup" is-config="true" duration-ms="14553" started-at="2020-02-12T23:25:57 EST" finished-at="2020-02-12T23:26:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="image()[pri:50, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="image" duration-ms="2987" started-at="2020-02-12T23:26:11 EST" finished-at="2020-02-12T23:26:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- image -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="teardown" is-config="true" duration-ms="861" started-at="2020-02-12T23:26:14 EST" finished-at="2020-02-12T23:26:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="setup" is-config="true" duration-ms="13189" started-at="2020-02-12T23:26:15 EST" finished-at="2020-02-12T23:26:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:51, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="login" duration-ms="1230" started-at="2020-02-12T23:26:28 EST" finished-at="2020-02-12T23:26:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.TestLogin@3234e239]" name="teardown" is-config="true" duration-ms="1169" started-at="2020-02-12T23:26:30 EST" finished-at="2020-02-12T23:26:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.cra.QA.testcases.TestLogin -->
+      <class name="com.cra.QA.testcases.ContactsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="setUp" is-config="true" duration-ms="23118" started-at="2020-02-12T23:21:58 EST" finished-at="2020-02-12T23:22:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newcontact(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="newcontact" duration-ms="3358" started-at="2020-02-12T23:22:21 EST" data-provider="getdata" finished-at="2020-02-12T23:22:24 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mehul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vijay123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcontact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="teardown" is-config="true" duration-ms="834" started-at="2020-02-12T23:22:24 EST" finished-at="2020-02-12T23:22:25 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="setUp" is-config="true" duration-ms="16132" started-at="2020-02-12T23:22:25 EST" finished-at="2020-02-12T23:22:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newcontact(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="newcontact" duration-ms="3588" started-at="2020-02-12T23:22:41 EST" data-provider="getdata" finished-at="2020-02-12T23:22:45 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sathish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kajal123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcontact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="teardown" is-config="true" duration-ms="929" started-at="2020-02-12T23:22:45 EST" finished-at="2020-02-12T23:22:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="setUp" is-config="true" duration-ms="16910" started-at="2020-02-12T23:22:46 EST" finished-at="2020-02-12T23:23:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newcontact(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="newcontact" duration-ms="3585" started-at="2020-02-12T23:23:03 EST" data-provider="getdata" finished-at="2020-02-12T23:23:06 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[janu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcontact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="teardown" is-config="true" duration-ms="775" started-at="2020-02-12T23:23:06 EST" finished-at="2020-02-12T23:23:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="setUp" is-config="true" duration-ms="16734" started-at="2020-02-12T23:23:07 EST" finished-at="2020-02-12T23:23:24 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newcontact(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="newcontact" duration-ms="3310" started-at="2020-02-12T23:23:24 EST" data-provider="getdata" finished-at="2020-02-12T23:23:27 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcontact -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.cra.QA.testcases.ContactsTest@631330c]" name="teardown" is-config="true" duration-ms="853" started-at="2020-02-12T23:23:27 EST" finished-at="2020-02-12T23:23:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.cra.QA.testcases.ContactsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
