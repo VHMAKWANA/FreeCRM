@@ -45,6 +45,10 @@ public class ContactsTest extends TestBase {
 		contactspage.Newcontact(name, lastname, company);
 		
 	}
+	@Test
+	public void data() {
+		System.out.println("v");
+	}
 
 	@AfterMethod()
 	public void teardown() {
